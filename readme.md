@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 
-[![Author](Dashboards.me/Images/Benard%20img.png)](https://www.facebook.com/njoroo.selector)
+[![Author](Dashboards.me/Images/Blinkit.png)](https://www.facebook.com/njoroo.selector)
 
 I'm a BSc Agribusiness Management with IT student passionate about data analytics, business intelligence, and data-driven decision-making.
 
