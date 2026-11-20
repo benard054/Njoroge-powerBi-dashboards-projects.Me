@@ -11,8 +11,7 @@ Welcome to my **Power BI Dashboard Portfolio**, showcasing interactive business 
 
 ### 1. 🛒 Blinkit Grocery Sales Dashboard
 
-![Blinkit Dashboard](images/blinkit-dashboard.png)
-
+![Blinkit Dashboard](/Dashboards.me/images/Blinkit.png)
 **Objective:** Analyze grocery sales performance, outlet characteristics, product categories, and customer ratings to uncover business growth opportunities.
 
 **Key Metrics:**
@@ -33,7 +32,7 @@ Welcome to my **Power BI Dashboard Portfolio**, showcasing interactive business 
 
 ### 2. ☕ Coffee Sales Dashboard
 
-![Coffee Sales Dashboard](images/coffee-sales-dashboard.png)
+![Blinkit Dashboard](/Dashboards.me/images/Coffee%20sales%20snap.png)
 
 **Objective:** Explore coffee sales trends, geographical performance, product preferences, and customer purchasing behavior.
 
@@ -50,7 +49,7 @@ Welcome to my **Power BI Dashboard Portfolio**, showcasing interactive business 
 
 ### 3. 🔐 Cybersecurity SOC Dashboard
 
-![SOC Dashboard](images/cybersecurity-dashboard.png)
+![Blinkit Dashboard](/Dashboards.me/images/cyber%20page%201.png)
 
 **Objective:** Monitor security incidents, response times, data breaches, firewall uptime, and attack patterns.
 
@@ -73,7 +72,7 @@ Welcome to my **Power BI Dashboard Portfolio**, showcasing interactive business 
 
 ### 4. 🚗 Insurance Risk & Claims Analysis Dashboard
 
-![Insurance Dashboard](images/insurance-dashboard.png)
+![Blinkit Dashboard](/Dashboards.me/images/Insurance%20snapshot.png)
 
 **Objective:** Analyze insurance policy distribution, claims, customer demographics, and vehicle-related risk patterns.
 
@@ -118,6 +117,8 @@ Welcome to my **Power BI Dashboard Portfolio**, showcasing interactive business 
 - Interactive filtering and exploration.
 - Business-focused insight communication.
 
+![DAX](/Dashboards.me/images/DAX%20snap.png)
+
 ## 🎯 My Approach to Data Storytelling
 
 My dashboard development process focuses on four principles:
@@ -126,19 +127,7 @@ My dashboard development process focuses on four principles:
 2. **Transform:** Prepare and organize data for meaningful analysis.
 3. **Visualize:** Build interactive dashboards that communicate important metrics and patterns.
 4. **Communicate:** Translate analytical findings into actionable business insights.
-
-## 👨‍💻 About Me
-
-I am passionate about **Data Analytics, Business Intelligence, and Data Visualization**, with a strong interest in transforming complex datasets into clear, interactive, and decision-focused dashboards.
-
-I continuously develop my analytical and technical skills through practical projects that solve business-oriented problems.
-
-### 🤝 Let's Connect
-
-I welcome opportunities to collaborate, learn, and contribute to data-driven organizations.
-
-⭐ If you find these projects interesting, feel free to explore my portfolio and connect with me!
-
----
+___
+#### [*View Power Bi Profile Readme Page*](/readme.md)
 
 **Tools:** Microsoft Power BI | DAX | Power Query | Data Visualization | Business Intelligence
