@@ -13,7 +13,7 @@ I enjoy transforming raw data into meaningful insights that support business per
 Currently developing my skills in **Microsoft Power BI, Excel, and data analytics**, with a particular interest in applying data analytics to agribusiness and financial management.
 
 
-[![Author](Dashboards.me/Images/Benard%20img.png)](https://www.facebook.com/njoroo.selector)
+![Author](/Dashboards.me/images/Benard%20img.png)
 
 ### 🛠️ Technical Skills
 
